@@ -1,0 +1,3 @@
+# Game Quiz com React + Vite
+
+Atenção! Estamos em obra...
